@@ -1,4 +1,4 @@
-# Sample GitLab Project
+# GitLab Repository for the curse BUS 48 Practical Analytics: Transforming Data into Decisions
 
 This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
 named and filled with lorem ipsum.
