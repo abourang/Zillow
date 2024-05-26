@@ -11,5 +11,6 @@ Project
 ├───data
 │   └───Raw data
 ├───notebook
-└───presentation
+├───presentation
+└───project requirements
 ```
