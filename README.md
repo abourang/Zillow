@@ -9,7 +9,8 @@ This is the [link](https://www.kaggle.com/competitions/zillow-prize-1/overview) 
 ```
 Project
 ├───data
-│   └───Raw data
+│   ├───processed_data
+│   └───raw_data
 ├───notebook
 ├───presentation
 └───project requirements
