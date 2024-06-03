@@ -13,8 +13,7 @@ with st.sidebar:
 # st.sidebar.image("streamlit/imgs/logo.png", use_column_width=False)
 st.title("Predicting House Value for Property Tax Assessment")
 st.text("Zillow's Market Value Estimation")
-st.text("BUS 48 Practical Analytics: Transforming Data into Decisions
-Stanford Continuing Studies")
+st.text("BUS 48 Practical Analytics: Transforming Data into Decisions Stanford Continuing Studies")
 st.markdown(horizontal_bar, True)
 st.subheader("Business Problem")
 st.markdown(
